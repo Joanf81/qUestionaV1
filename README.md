@@ -13,20 +13,20 @@ La aplicación ha sido probada correctamente en el navegador:
 
 ##Tecnologias usadas
 
-Javascript http://www.w3schools.com/js/
-HTML5 http://www.w3schools.com/html/html5_intro.asp
-CSS3 http://www.w3schools.com/css/css3_intro.asp
-
-AJAX http://www.w3schools.com/xml/ajax_intro.asp
-CORS https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
-Same Origin Policy https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
-Web Componenets https://www.webcomponents.org/
-
-JQuery https://jquery.com/
-Polymer v1.0 https://www.polymer-project.org/1.0/
-
-Mozilla firefox https://www.mozilla.org/en-GB/firefox/new/
-Firebug http://getfirebug.com/
+Javascript http://www.w3schools.com/js/  
+HTML5 http://www.w3schools.com/html/html5_intro.asp  
+CSS3 http://www.w3schools.com/css/css3_intro.asp  
+  
+AJAX http://www.w3schools.com/xml/ajax_intro.asp  
+CORS https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS  
+Same Origin Policy https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy  
+Web Componenets https://www.webcomponents.org/  
+  
+JQuery https://jquery.com/  
+Polymer v1.0 https://www.polymer-project.org/1.0/  
+  
+Mozilla firefox https://www.mozilla.org/en-GB/firefox/new/  
+Firebug http://getfirebug.com/  
 
 ##Autor
 
