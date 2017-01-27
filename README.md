@@ -23,7 +23,10 @@ Same Origin Policy https://developer.mozilla.org/en-US/docs/Web/Security/Same-or
 Web Componenets https://www.webcomponents.org/  
   
 JQuery https://jquery.com/  
-Polymer v1.0 https://www.polymer-project.org/1.0/  
+Polymer v1.0 https://www.polymer-project.org/1.0/
+  
+Wikipedia API https://www.mediawiki.org/wiki/API:Main_page  
+Flickr API https://www.flickr.com/services/api/  
   
 Mozilla firefox https://www.mozilla.org/en-GB/firefox/new/  
 Firebug http://getfirebug.com/  
