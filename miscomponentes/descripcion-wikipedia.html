@@ -1,0 +1,35 @@
+<link rel="import" href="../components/polymer/polymer.html"/>
+ 
+<polymer-element name="descripcion-wikipedia" attributes="tema descripcion">
+  <script>
+  	Polymer({
+  		attached: function () {
+    			var componente= this;
+    		
+					var addTexto = function(resp) {
+
+						var descripcion = "";
+
+						for (var pag in resp.query.pages) {
+							if (pag != "-1") {
+				  				descripcion += resp.query.pages[pag].extract;
+				  			}
+						}
+
+						componente.descripcion = descripcion;
+					};
+
+					$(document).ready(function() {
+					
+						$.ajax({
+				        	type: "GET",
+				       		url: "https://es.wikipedia.org/w/api.php?action=query&format=json&prop=extracts&exintro&explaintext&continue&titles=" + componente.tema + "&callback=?",
+				        	contentType: "application/json; charset=utf-8",
+				        	dataType: "json",
+				      		success: addTexto
+				    	});
+					});
+  		}
+	});
+  </script>
+</polymer-element>
