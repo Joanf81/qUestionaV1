@@ -5,7 +5,7 @@ qÜestionaV1 es una pequeña aplicación creada en una práctica universitaria q
 Dado que la aplicación no tiene backend propio, no se implementa la persistencia de los datos, esta funcionaliodad se implementará en la siguiente versión.
 
 ##Desliuegue de la aplicación
-Dado que se trata de una aplicación escrita completamente en Javascript+HTML5+CSS, no ha de ser compilada, y puede ser ejecutada abriendo el archivo 'index.html' con un navegador web.
+Dicha aplicación está escrita completamente en Javascript+HTML5+CSS, por lo que no ha de ser compilada, y puede ser ejecutada abriendo el archivo 'index.html' con un navegador web.
 
 ##Probada en...
 La aplicación ha sido probada correctamente en el navegador:  
