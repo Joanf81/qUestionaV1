@@ -8,7 +8,7 @@ Given that the application haven't got his own backend, the data persistence is 
 This application is completly writen in Javascript+HTML5+CSS3, then it must not be compiled, and it could be executed opening the 'index.html' file through our web navigator.
 
 ##Tested in...
-This application has been correctly tested in the next web navigator:
+This application has been correctly tested in the next web navigator:  
 `Mozilla Firefox 46.0.1`
 
 ##Used tecnologies
