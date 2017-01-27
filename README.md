@@ -1,17 +1,17 @@
 #qÜestionaV1
-##Introducción
-qÜestionaV1 es una pequeña aplicación creada en una práctica universitaria que demuestra la posibilidad de acceder a APIS de terceros y de usar componentes web mediante la librería Polymer. Dicha aplicación consiste en un frontend escrito en HTML5, CSS3 y Javascript, está compuesta por 3 componentes web creados mediante la libreria Polymer que permiten al usuario diseñar cuestionarios. Cuando un nuevo cuestionario es incluido, la aplicación usa la tecnologia AJAX mediante la libreria JQuery para comunicarse con las APIs de Wikipedia y Flickr, y obtener una descripcion y una foto del tema del cuestionário, que se mostrarán en la vista de la aplicación.
+##Introduction
+qÜestiona is a little application created in a university practice that shows the possibility of accesing third-party APIs and using web components through the Polymer library. This application consists in a HTML5, CSS3 and Javascript written frontend, that is formed by 3 web components, that allows the user to design cuestionnaires, develodep using the Polymer library. When a new cuestionnaire is created, the application use the AJAX tecnology through the JQuery library for connect to the Wikipedia and Flickr APIs, and get a description and a photo about the cuestionnaire's topic, that it will showed in the application's view.
 
-Dado que la aplicación no tiene backend propio, no se implementa la persistencia de los datos, esta funcionaliodad se implementará en la siguiente versión.
+Given that the application haven't got his own backend, the data persistence is not implemented, this funcionality will be implented in the next version of the application.
 
-##Desliuegue de la aplicación
-Dado que se trata de una aplicación escrita completamente en Javascript+HTML5+CSS, no ha de ser compilada, y puede ser ejecutada abriendo el archivo 'index.html' con un navegador web.
+##Application deployment
+This application is completly writen in Javascript+HTML5+CSS3, then it must not be compiled, and it could be executed opening the 'index.html' file through our web navigator.
 
-##Probada en...
-La aplicación ha sido probada correctamente en el navegador:  
+##Tested in...
+This application has been correctly tested in the next web navigator:
 `Mozilla Firefox 46.0.1`
 
-##Tecnologias usadas
+##Used tecnologies
 
 Javascript http://www.w3schools.com/js/  
 HTML5 http://www.w3schools.com/html/html5_intro.asp  
@@ -28,6 +28,6 @@ Polymer v1.0 https://www.polymer-project.org/1.0/
 Mozilla firefox https://www.mozilla.org/en-GB/firefox/new/  
 Firebug http://getfirebug.com/  
 
-##Autor
+##Author
 
-Aplicación completamente desarrolada por Joan Fernández Bornay
+This application has been completly developed by Joan Fernández Bornay.
