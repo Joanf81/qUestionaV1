@@ -1,6 +1,6 @@
 #qÜestionaV1
 ##Introduction
-qÜestiona is a little application created in a university practice that shows the possibility of accesing third-party APIs and using web components through the Polymer library. This application consists in a HTML5, CSS3 and Javascript written frontend, that is formed by 3 web components, that allows the user to design cuestionnaires, develodep using the Polymer library. When a new cuestionnaire is created, the application use the AJAX tecnology through the JQuery library for connect to the Wikipedia and Flickr APIs, and get a description and a photo about the cuestionnaire's topic, that it will showed in the application's view.
+qÜestiona is a small application that shows the possibility of accesing third-party APIs and using web components through the Polymer library. This application consists in a HTML5, CSS3 and Javascript written frontend, that is formed by 3 web components, that allows the user to design questionnaires, develodep using the Polymer library. When a new cuestionnaire is created, the application use the AJAX tecnology through the JQuery library to connect to the Wikipedia and Flickr APIs, and get a description and a photo about the questionnaire's topic, that it will showed in the application's view.
 
 Given that the application haven't got his own backend, the data persistence is not implemented, this funcionality will be implented in the next version of the application.
 
